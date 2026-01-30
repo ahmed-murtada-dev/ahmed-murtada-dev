@@ -1,9 +1,4 @@
-## Hi there I'm Ahmed Murtada👋
-
-<!--
-**ahmed-murtada-dev/ahmed-murtada-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 👋 Hi, I'm Ahmed Murtada
+👋 Hi, I'm Ahmed Murtada
 
 💻 Web Developer | Frontend & UI-Focused
 
