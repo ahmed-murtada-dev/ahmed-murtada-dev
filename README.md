@@ -1,6 +1,6 @@
 👋 Hi, I'm Ahmed Murtada
 
-💻 Web Developer | Frontend & UI-Focused
+💻 Web Developer
 
 I’m a Web Developer with 2 years of hands-on experience building responsive, user-friendly web applications.  
 I specialize in creating clean, modern interfaces and turning UI/UX designs into high-quality, scalable code with a strong focus on performance and usability.
